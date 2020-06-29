@@ -1,0 +1,87 @@
+body {
+  background-color: rgba(255, 248, 220, 0.15);
+}
+.div1 {
+  background-color: rgba(255, 235, 205, 1);
+  width: 355px;
+  height: 279px;
+  margin-left: 120px;
+  margin-top: 60px;
+  padding: 50px;
+  display: block;
+  position: relative;
+}
+.dropdown {
+  float: right;
+  margin-right: 20px;
+  margin-top: -300px;
+}
+#selector {
+  background-color: floralwhite;
+  border-radius: 10px;
+}
+
+#newName {
+  margin-bottom: 30px;
+
+  margin-left: 12px;
+  border-radius: 15px;
+  height: 20px;
+  background-color: #e6e6e6;
+  border: thin solid transparent;
+  padding-left: 5px;
+}
+#numberOFPdt {
+  margin-left: 18px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+  height: 20px;
+  background-color: #e6e6e6;
+  border: thin solid transparent;
+}
+#typepdt {
+  margin-bottom: 30px;
+  margin-left: 45px;
+  border-radius: 15px;
+  height: 20px;
+  background-color: #e6e6e6;
+  border: thin solid transparent;
+}
+#pdtname {
+  padding-left: 5px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  border-radius: 15px;
+  height: 23px;
+  background-color: #e6e6e6;
+  border: thin solid transparent;
+}
+#mod {
+  padding-left: 5px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  border-radius: 15px;
+  height: 23px;
+  background-color: rgb(230, 230, 230);
+  border: thin solid transparent;
+}
+button {
+  margin-left: 3px;
+  border-radius: 10px;
+  height: 30px;
+  background-color: #e6e6e6;
+  border: thin solid transparent;
+}
+.pic {
+  position: absolute;
+  top: 59px;
+  left: 580px;
+  background-color: rgba(255, 235, 205, 1);
+}
+.addbutton {
+  margin-left: 150px;
+  margin-bottom: 15px;
+  width: 90px;
+  border: thin solid #333;
+  background-color: rgba(230, 230, 230, 0.7);
+}
